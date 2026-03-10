@@ -67,7 +67,7 @@ nav ul li a:hover {
 
 .hero h1 {
     font-size: 3rem;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 .container {
@@ -81,6 +81,7 @@ h2 {
     border-bottom: 2px solid #00ADB5;
     display: inline-block;
     padding-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 .grid {
@@ -111,8 +112,8 @@ h2 {
 }
 
 .btn:hover {
-    background: #1A1A1A;
-    color: #00ADB5;
+    background: #FFFFFF;
+    color: #1A1A1A;
 }
 
 footer {
@@ -121,4 +122,9 @@ footer {
     text-align: center;
     padding: 30px 20px;
     margin-top: 50px;
+}
+
+footer a {
+    color: #00ADB5;
+    text-decoration: none;
 }
